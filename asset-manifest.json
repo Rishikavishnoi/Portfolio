@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.ace9f3f2.css",
+    "main.js": "/Portfolio/static/js/main.15c9bcb5.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Portfolio/static/js/787.28cb0dcd.chunk.js",
+    "static/media/c-1.jpg": "/Portfolio/static/media/c-1.77946216aeac5df01a64.jpg",
+    "static/media/c-2.png": "/Portfolio/static/media/c-2.06da31d128681b252703.png",
+    "static/media/c-3.png": "/Portfolio/static/media/c-3.e759c116980a6e23ef7c.png",
+    "static/media/Quiz-App.png": "/Portfolio/static/media/Quiz-App.b41cc0183bcbf01c9d53.png",
+    "static/media/music-player.png": "/Portfolio/static/media/music-player.f553e188ece2e38577a5.png",
+    "static/media/donation-website.png": "/Portfolio/static/media/donation-website.3b2a7300c22a3e57e428.png",
+    "static/media/weather-app.png": "/Portfolio/static/media/weather-app.6688a634bccf4b36a841.png",
+    "static/media/PHP.png": "/Portfolio/static/media/PHP.502c1a901665a0453b5c.png",
+    "static/media/resume-builder.png": "/Portfolio/static/media/resume-builder.8773bdf20dca2cc67af3.png",
+    "static/media/code-editor.png": "/Portfolio/static/media/code-editor.a7edf522a985f386c2cc.png",
+    "static/media/react.png": "/Portfolio/static/media/react.65ca18b4e9841f85a691.png",
+    "static/media/db.png": "/Portfolio/static/media/db.25f4db76c4f22e721118.png",
+    "static/media/bootstrap.png": "/Portfolio/static/media/bootstrap.d5210cdeab1bc94309c4.png",
+    "static/media/java.png": "/Portfolio/static/media/java.5d5cffa04d820ba0644c.png",
+    "static/media/js.png": "/Portfolio/static/media/js.a2a16f087e18d50f3d99.png",
+    "static/media/node.jpeg": "/Portfolio/static/media/node.20c94615d59927dd1dbe.jpeg",
+    "static/media/pic.jpeg": "/Portfolio/static/media/pic.50385f49490a8b7132c9.jpeg",
+    "static/media/sql.png": "/Portfolio/static/media/sql.4100ea20ad19b495db86.png",
+    "static/media/html.png": "/Portfolio/static/media/html.6e930594286d8afe4c79.png",
+    "static/media/css-3.png": "/Portfolio/static/media/css-3.463e319bad8e0edf1ef7.png",
+    "static/media/git-logo.png": "/Portfolio/static/media/git-logo.f7043f49f94ad473eda0.png",
+    "index.html": "/Portfolio/index.html",
+    "main.ace9f3f2.css.map": "/Portfolio/static/css/main.ace9f3f2.css.map",
+    "main.15c9bcb5.js.map": "/Portfolio/static/js/main.15c9bcb5.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Portfolio/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ace9f3f2.css",
+    "static/js/main.15c9bcb5.js"
+  ]
+}
