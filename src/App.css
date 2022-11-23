@@ -1,38 +1,81 @@
-.App {
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+body{
+  background-color: rgb(1, 1, 31) !important;
+}
+.navbar{
+  background-color: rgb(1, 1, 31) !important;
+  padding: 1rem;
+  box-shadow:1px -1px 15px 0px rgb(250 190 59);;
+  
+}
+.header-container{
+  padding: 1rem;
+  background-color:  rgb(1, 1, 31) !important;
+ 
+}
+
+.mypic{
+  
+  width: 300px;
+  height: 300px;
+  margin-top: 4rem;
+  margin-left: 3rem;
+ padding: 20px;
+ border-radius: 50%;
+ box-shadow: 0px -5px 20px 9px #5758f8;
+}
+.head-text{
+
+  margin-top: 8%;
+  padding: 20px;
+  color: rgb(250, 190, 59);
+}
+.head-text h1{
+ font-size: 5rem;
+ background: linear-gradient(to right, #30CFD0 0%, #8704c8 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+.head-text p{
+ font-size: 1.5rem;
+}
+.skill{
+  /* background: linear-gradient(to right, #30CFD0 50%, #8704c8 100%);
+  margin-top:50%; */
+ padding: 3rem;
+ border-radius: 20px;
+}
+.skill h1{
   text-align: center;
+  color: rgb(250, 190, 59);
 }
+.skill .icons img{
+  padding: 15px;
+ width: 100px;
+ height: 100px;
+ box-shadow: -1px -1px 3px 5px #410069;
+ border-radius: 50%;
+ margin: 20px;
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.project-container{
+ background-color:#30CFD0 ;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.project-container h1{
+ color:rgb(1, 1, 31);
+ text-align: center;
 }
-
-.App-link {
-  color: #61dafb;
+.project .card{
+  margin: 20px;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.certi{
+  text-align: center;
+  width:30%;
+  height: 20%;
+  padding: 30px;
+  
 }
